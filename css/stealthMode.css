@@ -1,0 +1,19 @@
+#stealth-loading {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 14px;
+    color: black;
+    z-index: 9999999999999999;
+  }
+  
+  #stealth-answer {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 14px;
+    color: black;
+    z-index: 9999999999999999;
+    max-width: 400px;
+    overflow-wrap: break-word;
+  }
